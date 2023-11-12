@@ -1,0 +1,27 @@
+Hi this a text base game. 
+you should choose your character and you try to survive into advanture. this game can only finish with your died. 
+this game language is Turkish and has 5 different location 
+
+1. Safety House
+2. Cave
+3 Forest
+4 River
+5 Blacksmith
+
+you have 3 character
+1 Samurai
+2 Archer
+3 chevalier
+
+you must fight against 3 creature
+
+1 Zombi
+2 Vampire
+3 Beer
+
+you can buy some weapon and shield form Blacksmith and If you want help Healer of village will you cure 
+
+
+enjoy game 
+
+metin koca
